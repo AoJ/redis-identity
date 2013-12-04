@@ -21,9 +21,6 @@
   "author": "Garrett Johnson",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "peerDependencies": {
-    "redis": "~0.8.2"
-  },
   "devDependencies": {
     "redis": "*",
     "mocha": "*",
